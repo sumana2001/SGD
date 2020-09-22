@@ -862,12 +862,12 @@ ol {
 }
 
 .footer__top {
-  padding: 30px 0;
+  padding: 20px 0;
   border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 .footer__top__logo {
-  line-height: 40px;
+  line-height: 20px;
 }
 .footer__top__logo a {
   display: inline-block;
