@@ -23,6 +23,7 @@
 8.  Latest Section
 9.  Contact
 10.  Footer Style
+11. FAQ
 -------------------------------------------------------------------*/
 /*----------------------------------------*/
 /* Template default CSS
@@ -32,6 +33,7 @@ body {
   height: 100%;
   font-family: "Josefin Sans", sans-serif;
   -webkit-font-smoothing: antialiased;
+  background: #100028;
 }
 
 h1,
@@ -1781,6 +1783,50 @@ ol {
 .contact__form form textarea:focus {
   border-color: #e1e1e1;
 }
+
+/*---------------------
+  FAQ
+-----------------------*/
+.box{
+  background: white;
+  width: 70%;
+  margin: 100px auto;
+  border-radius: 7px;
+  box-shadow: 1px 2px 4px rgba(0,0,0,.3);
+}
+
+.box .heading{
+  background: #00bfe7;
+  border-radius: 7px 7px 0px 0px;
+  padding: 10px;
+  color: #fff;
+  text-align: center;
+  font-family: "Rubik";
+}
+
+.faqs{
+  padding: 0px 20px 20px;
+}
+
+::-webkit-details-marker{
+  float: right;
+  margin-top: 3px;
+}
+
+details{
+  padding: 10px 20px;
+  border-radius: 7px;
+  margin-top: 20px;
+  font-family: "Rubik";
+  font-size: 14px;
+  letter-spacing: 1px;
+  cursor: pointer;
+}
+
+details summary{
+  outline: none;
+}
+
 
 /*--------------------------------- Responsive Media Quaries -----------------------------*/
 @media only screen and (min-width: 1200px) {
