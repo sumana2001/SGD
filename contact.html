@@ -146,11 +146,11 @@
                 <div class="col-lg-6 col-md-6">
                     <div class="contact__form">
                         <h3>Get in touch</h3>
-                        <form action="#">
-                            <input type="text" placeholder="Name">
-                            <input type="text" placeholder="Email">
-                            <input type="text" placeholder="Website">
-                            <textarea placeholder="Message"></textarea>
+                        <form action="contact.php" method="post" id="form" class="contact-form">
+                            <input name="cf_name" type="text" class="form-control" id="name" required="required" placeholder="Name">
+                            <input name="cf_email" type="text" class="form-control" id="email" pattern="[^ @]*@[^ @]*"  required="required" placeholder="Email Id">
+                            <input name="cf_phone" type="number" class="form-control" id="phone"  required="required" placeholder="Phone Number">
+                            <textarea name="cf_message" rows="6" class="form-control" id="message" required="required" placeholder="Message"></textarea>
                             <button type="submit" class="site-btn">Send Message</button>
                         </form>
                     </div>
@@ -166,15 +166,23 @@
         <p class="heading">FAQs</p>
         <div class="faqs">
            <details>
-              <summary>What is Lorem ipsum?</summary>
+              <summary>What is the SDG International Virtual Film Festival all about and who is organizing it? </summary>
               <p class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
            </details>
            <details>
-              <summary>What is Lorem ipsum?</summary>
+              <summary>Who can participate and what are the dates of the Film Festival?</summary>
               <p class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
            </details>
            <details>
-              <summary>What is Lorem ipsum?</summary>
+              <summary>Is there a registration fee for attending the Film Festival? Also do I need to be a part of a college delegation to participate in the Film Festival?</summary>
+              <p class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+           </details>
+           <details>
+              <summary>What are the other benefits and perks of attending the Film Festival?</summary>
+              <p class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+           </details>
+           <details>
+              <summary>How to register for the Film Festival and take part?</summary>
               <p class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
            </details>
         </div>
