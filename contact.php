@@ -4,7 +4,7 @@ $field_email = $_POST['cf_email'];
 $field_phone = $_POST['cf_phone'];
 $field_message = $_POST['cf_message'];
 
-$mail_to = 'abc@gmail.com';
+$mail_to = 'sdgcampusclub.nitrkl@gmail.com';
 $subject = 'Message from SGD website '.$field_name;
 
 $body_message = 'From: '.$field_name."\n";
@@ -26,7 +26,7 @@ if ($mail_status) { ?>
 }
 else { ?>
 	<script language="javascript" type="text/javascript">
-		alert('Message failed. Please, send an email to abc@gmail.com');
+		alert('Message failed. Please, send an email to sdgcampusclub.nitrkl@gmail.com');
 		window.location = 'contact.html';
 	</script>
 <?php
