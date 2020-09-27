@@ -1271,9 +1271,10 @@ ol {
 
 .portfolio__item__text {
   text-align: center;
+  
 }
 .portfolio__item__text h4 {
-  color: #ffffff;
+  color: #000000;
   display: inline-block;
   font-size: 22px;
   font-weight: 700;
