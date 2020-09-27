@@ -911,6 +911,7 @@ ol {
 
 .footer__option__item {
   margin-bottom: 35px;
+  margin-left: 3%;
 }
 .footer__option__item h5 {
   color: #ffffff;
@@ -997,6 +998,11 @@ ol {
 }
 .footer__copyright__text a {
   color: #00bfe7;
+}
+@media only screen and (min-width: 786px){
+  .footer_quick_links{
+    margin-left: 20%;
+  }
 }
 
 /*---------------------
