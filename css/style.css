@@ -819,9 +819,9 @@ ol {
 }
 .blog__item.latest__item1:hover {
   border: 1px solid #222222 !important;
-  background: url(../img/sdgimg/) no-repeat;
+  background: url(../img/sdgimg/LisaRussells.jpg) no-repeat;
   background-size: cover;
-  background-size: cover;
+  
 }
 
 .blog__item.latest__item2 {
@@ -830,6 +830,7 @@ ol {
 }
 .blog__item.latest__item2:hover {
   border: 1px solid #222222 !important;
+  background: url(../img/sdgimg/WallyGram.jpg) no-repeat;
   
   background-size: cover;
 }
@@ -840,7 +841,7 @@ ol {
 }
 .blog__item.latest__item3:hover {
   border: 1px solid #222222 !important;
-  
+  background: url(../img/sdgimg/diana.jpg) no-repeat;
   background-size: cover;
 }
 
@@ -850,7 +851,7 @@ ol {
 }
 .blog__item.latest__item4:hover {
   border: 1px solid #222222 !important;
-  
+  background: url(../img/sdgimg/nicole.jpg) no-repeat;
   background-size: cover;
 }
 
@@ -860,7 +861,7 @@ ol {
 }
 .blog__item.latest__item5:hover {
   border: 1px solid #222222 !important;
-  
+  background: url(../img/sdgimg/jackSims.jpg) no-repeat;
   background-size: cover;
 }
 .blog__item.latest__item6 {
@@ -869,7 +870,7 @@ ol {
 }
 .blog__item.latest__item6:hover {
   border: 1px solid #222222 !important;
-  
+  background: url(../img/sdgimg/Inessa.jpg) no-repeat;
   background-size: cover;
 }
 .blog__item.latest__item7 {
@@ -878,7 +879,7 @@ ol {
 }
 .blog__item.latest__item7:hover {
   border: 1px solid #222222 !important;
-  
+  background: url(../img/sdgimg/Bethany.jpg) no-repeat;
   background-size: cover;
 }
 .blog__item.latest__item8 {
@@ -887,7 +888,7 @@ ol {
 }
 .blog__item.latest__item8:hover {
   border: 1px solid #222222 !important;
-  
+  background: url(../img/sdgimg/Ashley.jpg) no-repeat;
   background-size: cover;
 }
 .blog__item.latest__item9 {
@@ -896,7 +897,7 @@ ol {
 }
 .blog__item.latest__item9:hover {
   border: 1px solid #222222 !important;
-  
+  background: url(../img/sdgimg/Sunil.jpg) no-repeat;
   background-size: cover;
 }
 .blog__item.latest__item10 {
@@ -905,26 +906,12 @@ ol {
 }
 .blog__item.latest__item10:hover {
   border: 1px solid #222222 !important;
-  
+  background: url(../img/sdgimg/biswal.jpeg) no-repeat;
   background-size: cover;
 }
 .blog__item.latest__item5 {
   margin-bottom: 0;
   height: 300px;
-}
-.blog__item.latest__item5:hover {
-  border: 1px solid #222222 !important;
-  
-  background-size: cover;
-}
-.blog__item.latest__item5 {
-  margin-bottom: 0;
-  height: 300px;
-}
-.blog__item.latest__item5:hover {
-  border: 1px solid #222222 !important;
-  
-  background-size: cover;
 }
 
 .latest__slider.owl-carousel .owl-item .col-lg-4 {
