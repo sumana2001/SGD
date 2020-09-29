@@ -19,7 +19,7 @@
 4.  Hero Section
 5.  Services Section
 6.  Counter Section
-7.  Team Section
+7.   Section
 8.  Latest Section
 9.  Contact
 10.  Footer Style
@@ -740,6 +740,10 @@ ol {
 .team__item.team__item--four {
   margin-top: -180px;
 }
+.team__item.team__item--five{
+  margin-top: -270px;
+  margin-left:-100px;
+}
 
 .team__item__text {
   text-align: center;
@@ -801,10 +805,125 @@ ol {
 
 .blog__item.latest__item {
   margin-bottom: 0;
+  height: 300px;
 }
 .blog__item.latest__item:hover {
   border: 1px solid #222222 !important;
-  background: url(../img/sdgimg/homeSlider.jpg);
+  
+  background-size: cover;
+}
+
+.blog__item.latest__item1 {
+  margin-bottom: 0;
+  height: 300px;
+}
+.blog__item.latest__item1:hover {
+  border: 1px solid #222222 !important;
+  background: url(../img/sdgimg/) no-repeat;
+  background-size: cover;
+  background-size: cover;
+}
+
+.blog__item.latest__item2 {
+  margin-bottom: 0;
+  height: 300px;
+}
+.blog__item.latest__item2:hover {
+  border: 1px solid #222222 !important;
+  
+  background-size: cover;
+}
+
+.blog__item.latest__item3 {
+  margin-bottom: 0;
+  height: 300px;
+}
+.blog__item.latest__item3:hover {
+  border: 1px solid #222222 !important;
+  
+  background-size: cover;
+}
+
+.blog__item.latest__item4 {
+  margin-bottom: 0;
+  height: 300px;
+}
+.blog__item.latest__item4:hover {
+  border: 1px solid #222222 !important;
+  
+  background-size: cover;
+}
+
+.blog__item.latest__item5 {
+  margin-bottom: 0;
+  height: 300px;
+}
+.blog__item.latest__item5:hover {
+  border: 1px solid #222222 !important;
+  
+  background-size: cover;
+}
+.blog__item.latest__item6 {
+  margin-bottom: 0;
+  height: 300px;
+}
+.blog__item.latest__item6:hover {
+  border: 1px solid #222222 !important;
+  
+  background-size: cover;
+}
+.blog__item.latest__item7 {
+  margin-bottom: 0;
+  height: 300px;
+}
+.blog__item.latest__item7:hover {
+  border: 1px solid #222222 !important;
+  
+  background-size: cover;
+}
+.blog__item.latest__item8 {
+  margin-bottom: 0;
+  height: 300px;
+}
+.blog__item.latest__item8:hover {
+  border: 1px solid #222222 !important;
+  
+  background-size: cover;
+}
+.blog__item.latest__item9 {
+  margin-bottom: 0;
+  height: 300px;
+}
+.blog__item.latest__item9:hover {
+  border: 1px solid #222222 !important;
+  
+  background-size: cover;
+}
+.blog__item.latest__item10 {
+  margin-bottom: 0;
+  height: 300px;
+}
+.blog__item.latest__item10:hover {
+  border: 1px solid #222222 !important;
+  
+  background-size: cover;
+}
+.blog__item.latest__item5 {
+  margin-bottom: 0;
+  height: 300px;
+}
+.blog__item.latest__item5:hover {
+  border: 1px solid #222222 !important;
+  
+  background-size: cover;
+}
+.blog__item.latest__item5 {
+  margin-bottom: 0;
+  height: 300px;
+}
+.blog__item.latest__item5:hover {
+  border: 1px solid #222222 !important;
+  
   background-size: cover;
 }
 
