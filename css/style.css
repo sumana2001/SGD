@@ -1024,7 +1024,7 @@ text-align: center;
 }
 .blog__item.lat__item7:hover {
   border: 1px solid #222222 !important;
-  background: url(../img/sdgimg/Bethany.jpg) no-repeat;
+  background: url(../img/sdgimg/Bethany\ Borg.jpg) no-repeat;
   background-size: cover;
 }
 .blog__item.lat__item8 {
@@ -1052,6 +1052,15 @@ text-align: center;
 .blog__item.lat__item10:hover {
   border: 1px solid #222222 !important;
   background: url(../img/sdgimg/biswal.jpeg) no-repeat;
+  background-size: cover;
+}
+.blog__item.lat__item11 {
+  margin-bottom: 0;
+  height: 400px;
+}
+.blog__item.lat__item11:hover {
+  border: 1px solid #222222 !important;
+  background: url(../img/sdgimg/Jamie\ Metzl\,\ One\ SHared\ World.jpeg) no-repeat;
   background-size: cover;
 }
 .blog__item.lat__item5 {
