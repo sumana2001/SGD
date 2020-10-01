@@ -731,18 +731,6 @@ ol {
 .team__item:hover .team__item__text {
   bottom: 0;
 }
-.team__item.team__item--second {
-  margin-top: -50px;
-}
-.team__item.team__item--third {
-  margin-top: -100px;
-}
-.team__item.team__item--four {
-  margin-top: -150px;
-}
-.team__item.team__item--five{
-  margin-top: -200px;
-}
 
 .team__item__text {
   text-align: center;
@@ -2178,18 +2166,6 @@ details summary{
     padding-bottom: 70px;
   }
 
-  .team__item.team__item--second {
-    margin-top: 0;
-  }
-
-  .team__item.team__item--third {
-    margin-top: 0;
-  }
-
-  .team__item.team__item--four {
-    margin-top: 0;
-  }
-
   .team__btn {
     position: relative;
     padding-top: 50px;
@@ -2299,17 +2275,6 @@ details summary{
     padding-bottom: 70px;
   }
 
-  .team__item.team__item--second {
-    margin-top: 0;
-  }
-
-  .team__item.team__item--third {
-    margin-top: 0;
-  }
-
-  .team__item.team__item--four {
-    margin-top: 0;
-  }
 
   .team__btn {
     position: relative;
